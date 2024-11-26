@@ -66,7 +66,7 @@ function App(){
       <div className="counter">
         <h1>Counter App</h1>
         <h2>Count: {count}</h2>
-        <button onClick={handleIncrement}>Increment</button>
+        <button onClick={handleIncrement}>+</button>
         <button onClick={handleReset}>Reset</button>
       </div>
       <div className="greeting-form">

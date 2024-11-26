@@ -2,6 +2,7 @@
 .container {
   text-align: center;
   margin-top: 50px;
+  
 }
 
 .counter h1,
@@ -15,14 +16,14 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  border: 1px solid #007bff;
-  background-color: #007bff;
+  border: 1px solid #e99af9;
+  background-color: #e99af9;
   color: white;
   border-radius: 5px;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #fb35f1;
 }
 
 input {
